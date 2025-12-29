@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "We White dog",
+  "base_artist": "アバンティーズ",
+  "createdAt": "2025-12-29T21:11:42.696751Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We White dog",
+      "artist": "アバンティーズ",
+      "has_synced": false,
+      "path": "select/pl_01_We_White_dog_アバンティーズ.txt"
+    }
+  ]
+}
